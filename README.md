@@ -1,6 +1,6 @@
 # Dynamic Sorting Robotic Arm
 Course: RBE 3001
-##Overview
+## Overview
 The objective of this lab was to implement computer
 vision to detect and locate objects within the robot’s task
 space. Using a camera positioned above the robot’s task space,
