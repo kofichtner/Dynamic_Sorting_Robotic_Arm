@@ -13,7 +13,7 @@ kinematic, and inverse differential kinematic trajectory
 functions developed in previous labs. We also implemented a
 dynamic tracking function, a URDF simulation of the robot,
 and detection of an arbitrary object.
-##Results
+## Results
 The robot was successfully able to sort objects by color and size.
 
 ![Objects before sorting (left) and after sorting (right)](https://github.com/kofichtner/Dynamic_Sorting_Robotic_Arm/blob/master/images/Picture2.png)
