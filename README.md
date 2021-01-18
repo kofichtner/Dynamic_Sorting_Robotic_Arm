@@ -20,6 +20,6 @@ space. Then, navigating to each object using an inverse differential kinematics 
 Blue objects were put furthest away from the camera, then green, and then yellow closest. A
 before and after image of this sorting algorithm can be seen in the figure below. 
 <p align="center">
-  <img src="https://github.com/kofichtner/Dynamic_Sorting_Robotic_Arm/blob/master/images/Picture2.png" />
+  <img src="https://github.com/kofichtner/Dynamic_Sorting_Robotic_Arm/blob/master/images/Picture2.png" width="674" height="236
 </p>
 ![Objects before sorting (left) and after sorting (right)](https://github.com/kofichtner/Dynamic_Sorting_Robotic_Arm/blob/master/images/Picture2.png)
