@@ -23,7 +23,7 @@ before and after image of this sorting algorithm can be seen in the figure below
   <img src="https://github.com/kofichtner/Dynamic_Sorting_Robotic_Arm/blob/master/images/Picture2.png" width="674" height="236"
 </p>
   
-The image below shows the centroids of objects identified with red dots and the objects filtered for size.
+The image below shows the centroids of objects identified with red dots and the objects filtered for size. Using the area of regions containing centroids, the robot is able to sort objects by size.
 <p align="center">
   <img src="https://github.com/kofichtner/Dynamic_Sorting_Robotic_Arm/blob/master/images/filtered_centroids2.JPG" width="419" height="321"
 </p>
