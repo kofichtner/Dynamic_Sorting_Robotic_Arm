@@ -19,5 +19,7 @@ determine both the color and size of each object in the task
 space. Then, navigating to each object using an inverse differential kinematics method, we sorted large objects to the camera’s left and small objects to the camera’s right. 
 Blue objects were put furthest away from the camera, then green, and then yellow closest. A
 before and after image of this sorting algorithm can be seen in the figure below. 
-
+<div align="center">
+![Objects before sorting (left) and after sorting (right)](https://github.com/kofichtner/Dynamic_Sorting_Robotic_Arm/blob/master/images/Picture2.png)
+</div>
 ![Objects before sorting (left) and after sorting (right)](https://github.com/kofichtner/Dynamic_Sorting_Robotic_Arm/blob/master/images/Picture2.png)
