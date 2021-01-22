@@ -28,4 +28,9 @@ The image below shows the centroids of objects identified with red dots and the 
   <img src="https://github.com/kofichtner/Dynamic_Sorting_Robotic_Arm/blob/master/images/filtered_centroids2.JPG" width="419" height="321"
 </p>
 
+The URDF model below was used to simulate the robot's trajectories.
+<p align="center">
+  <img src="https://github.com/kofichtner/Dynamic_Sorting_Robotic_Arm/blob/master/images/sorting_robot_urdf.JPG"
+</p>
+
 [View Lab Report](https://github.com/kofichtner/Dynamic_Sorting_Robotic_Arm/blob/master/Lab5_RBE3001C20_Team1_Fichtnner_Tulig_Ternent.pdf)
